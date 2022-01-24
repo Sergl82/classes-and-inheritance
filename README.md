@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tvj2hxqv2l09ida9?svg=true)](https://ci.appveyor.com/project/Sergl82/classes-and-inheritance)
