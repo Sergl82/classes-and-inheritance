@@ -1,10 +1,10 @@
-import Character from '../character';
-import Bowman from '../bowman';
-import Daemon from '../daemon';
-import Magician from '../magician';
-import Swordsman from '../swordsman';
-import Undead from '../undead';
-import Zombie from '../zombie';
+import Character from '../Character';
+import Bowman from '../Bowman';
+import Daemon from '../Daemon';
+import Magician from '../Magician';
+import Swordsman from '../Swordsman';
+import Undead from '../Undead';
+import Zombie from '../Zombie';
 
 test('smallNameLength', () => {
   const received = () => new Character('O', 'Zombie', 100);
